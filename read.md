@@ -85,3 +85,16 @@ https://www.linkedin.com/in/darryl-kilzer-jr/
 https://www.linkedin.com/in/coripickard/
 
 <img src="assets/wordcloud.jpg">
+<br>
+week 8
+<br>
+Three Reccomenders: Jade(previous boss), Jenn(previous boss), Brandon(previous colleague)
+<br>
+custom message sample:
+<br>
+Hi _____ , I noticed we're both attended Boise CodeWorks and you work at _____. I've heard about ______ company and was interested and learning about their working atmosphere. I'd love to connect and talk with you.
+<br>
+Connections:
+Zac, austin, Toby, dylan, Mykeal, Jack, Ty, Tamara, Gage, Gavin, Katie, Isaiah, Harrison, Zach, Mark, Drake, Haven, Mick, Jeremy, Sam, 
+<br>
+Linkedin: https://www.linkedin.com/in/maria--walker/
