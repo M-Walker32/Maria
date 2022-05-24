@@ -100,4 +100,5 @@ Zac, austin, Toby, dylan, Mykeal, Jack, Ty, Tamara, Gage, Gavin, Katie, Isaiah, 
 Linkedin: https://www.linkedin.com/in/maria--walker/
 <br>
 <a href="assets/MariaResume.pdf">Resume</a>
+<br>
 <a href="assets/Resume.pdf">Stylized Resume</a>
