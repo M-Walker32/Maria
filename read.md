@@ -98,3 +98,6 @@ Connections:
 Zac, austin, Toby, dylan, Mykeal, Jack, Ty, Tamara, Gage, Gavin, Katie, Isaiah, Harrison, Zach, Mark, Drake, Haven, Mick, Jeremy, Sam, 
 <br>
 Linkedin: https://www.linkedin.com/in/maria--walker/
+<br>
+<a href="assets/MariaResume.pdf"></a>
+<a href="assets/Resume.pdf"></a>
