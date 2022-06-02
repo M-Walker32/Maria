@@ -101,7 +101,7 @@ Linkedin: https://www.linkedin.com/in/maria--walker/
 <br>
 <a href="assets/MariaResume.pdf">Resume</a>
 <br>
-<a href="assets/MariaWResume.pdf">Stylized Resume</a>
+<a href="assets/MariaWResume.pdf">Stylized Resume</a><br> <br>
 Career Services:<br>
 - White Board:<br>
     - I’ve attended at least three white board firesides. Mick was leading when I completed a problem. I realized that I don’t know what a for loop looks like when you write it on a white board instead of VS code. I think I did a good job of talking the problem out when I was stumped. A whiteboard is where I like to plan out my project, so being at the white board feel pretty natural. However, coding on a white board is pretty nerve racking. I noticed some people get stuck and freeze up little bit, while I’m more likely to laugh or joke around.<br><br>
@@ -113,18 +113,18 @@ Career Services:<br>
     5. What are your company values, and how do they impact the work here?<br>
 - ELEVATOR PITCH<br>
 - HOW SHOULD I PREPARE?<br>
+- To prepare I will research the company and find out what their values are. If applicable I will see what I can find out about the person interviewing me. I will closely look at the job description and use this information to prepare and highlight things they’re looking for in a candidate. <br>
 - BEHAVIOR QUESTIONS<br>
 - Tell me about a time an unexpected problem derailed your planning. How did you recover?<br>
     - SITUATION I was working for a local promoter and one of the venues we had a show at was an amphitheater on the edge of town. Part of my job was to ensure the gates were ready for patrons to enter. Our staff informed me that they tested the ticket scanners and the wifi was down. <br>
     - TASK I had to figure out how to fix the wifi and or come up with a different way to scan tickets so the patrons could enter the show.<br>
     - ACTION I asked the event staff if they were willing to download a mobile app on their devices to scan tickets, I also asked some of my colleagues if they had a hotspot they’d be willing to loan out. <br>
     - RESULTS This solution allowed patrons to enter the venue at the scheduled time and gave me some time to troubleshoot and see if I could get our internet back up. <br>
-- Describe a time when you had to interact with a difficult client or customer. What was the situation, and how did you handle it?<br>
-        1. Tickets300<br>
-    1. SITUATION <br>
-    2. TASK<br>
-    3. ACTION<br>
-    4. RESULTS<br>
+- Tell me about a time when you made sure a customer was pleased with your service. <br>
+    1. SITUATION When I was working for the promoter there was a local band that performed a Christmas concert every year. This concert was a Christmas tradition for many locals in the area. We had several customers that would call in looking for seats for their family. There was one particular customer who wanted to purchased multiple tickets to multiple performances of this show. <br>
+    2. TASK I needed to help this patron select seats to the concert, however when I tried to run their payment, it failed due to the amount of the order. The lady needed to call her bank and approve, but was worried about losing her seats. <br>
+    3. ACTION I told her I could place the seats in a temporary hold for the rest of the day, until she could call her bank and call back to purchase these tickets. <br>
+    4. RESULTS The patron was grateful that her seats were safe and she could attend the concert with her family. <br>
 - Give me an example of a time you managed numerous responsibilities. How did you handle that?<br>
     1. SITUATION I worked at a winery in California for a harvest. During harvest all the grapes are brought in from the vineyards and it’s not uncommon for employess to be working 12+ hours 6 days a week. <br>
     2. TASK Each morning when I arrived I’d be handed a stack of work orders to be completed and assigned to work with someone.
